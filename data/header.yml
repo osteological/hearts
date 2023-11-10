@@ -1,0 +1,13 @@
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Devon and Miranda's Wedding Celebration!"
+subtitle: |
+  The party sets sail Saturday, May 18<sup>th</sup> 2024.
+content : |
+  Following a familial dinner ceremony meal and exchanging of vows, we've chartered a harbor cruise
+  ship to fill with as many friends as possible in celebration of our marriage. It'll be an evening
+  of live music, crusing and boozing.
+button:
+  label : "RSVP 🚢❤️🥂"
+  link : "#first"
+image : "images/flyer.jpg"
+

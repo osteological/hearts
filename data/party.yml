@@ -1,0 +1,18 @@
+title : "The Party"
+style: "style1 medium onscroll-fade-in"
+items:
+  - name: "💃🎶🕺🎉"
+    content: |
+      The ship has an awesome dance floor, we plan to have several live performances and a DJ,
+      no shortage of great music to score the night.
+    style: "solid style2 major"
+  - name : "👗👔👕👚"
+    content : |
+      Semi-formal or Cocktail attire is suggested. The plan is to dance though so be comfortable!
+      Note that the boat is enclosed in heated so there's no need to dress for the elements.
+    style : "style2 major"
+  - name : "🍕🍰🍻🍷"
+    content: |
+      We will be providing some light faire throughout the evening. Think pizza and a few desserts.
+      We'll be providing an open bar. Yes! There's a bar! On a Boat!
+    style : "solid style2 major"

@@ -1,0 +1,6 @@
+{{ define "main" }}
+	{{ partial "banner" site.Data.header }}
+	{{ partial "items" site.Data.party }}
+	{{ partial "schedule_table" . }}
+	{{ partial "spotlight" site.Data.rsvp }}
+{{ end }}
