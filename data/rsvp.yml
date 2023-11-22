@@ -1,5 +1,5 @@
 style: "style1 orient-right content-align-left"
-id: "first"
+id: "rsvp"
 title : "RSVP (Thank you!)"
 content: |
   This is going to be such a fun time, we're looking forward to celebrating with all of you in May!
@@ -7,5 +7,5 @@ content: |
   email. Help us plan our food and beverage purchacing by following the link to the RSVP.
 button: 
   label: "RSVP Google Form"
-  link: "#"
+  link: "https://forms.gle/dhx4ujQincKrH5nK7"
 image: "images/us-1.jpg"
