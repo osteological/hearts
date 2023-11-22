@@ -35,5 +35,5 @@ publishDir = "docs"
 
 [_build]
   list = 'always'
-  publishResources = false
+  publishResources = true
   render = 'always'
