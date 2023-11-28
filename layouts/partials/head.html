@@ -4,9 +4,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="description" content="">
 	<meta name="author" content="">
-	{{ if .Site.Params.favicon }}
-	{{ partial "favicon" }}
-	{{ end }}
+
+	<!-- Creates the favicon from an emoji set in the config file. -->
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>{{ .Site.Params.IconEmoji }}</text></svg>"/>
 	
 	<!-- CSS -->
 	{{ if .Site.IsServer }}

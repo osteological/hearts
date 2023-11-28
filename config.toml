@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "D+M=💖"
+title = "Devon and Miranda's Wedding!"
 copyright = "2023"
 theme = "hugo-story"
 
@@ -26,8 +26,8 @@ publishDir = "docs"
 
 [Params]
   description = "Wedding celebration invitation website."
-  logo = "images/flyer.jpg"
-  favicon = true
+  # This sets the favicon to the given emoji.
+  IconEmoji = "⛵"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
