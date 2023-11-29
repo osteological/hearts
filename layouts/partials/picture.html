@@ -1,6 +1,10 @@
 <article>
     <a href="{{ .image }}" class="image">
-        {{ with .thumb }}<h3><img src="{{ . }}" alt="" /></h3>{{ end }}
+        {{ if .thumb }}
+            {{ with .thumb }}<img src="{{ . }}" alt="" />{{ end }}
+        {{ else }}
+            {{ with .image }}<img src="{{ . }}" alt="" />{{ end }}
+        {{ end }}
     </a>
     <div class="caption">
         {{ with .title }}<h3>{{ . }}</h3>{{ end }}
