@@ -2,9 +2,10 @@ style: "style1 orient-right content-align-left"
 id: "rsvp"
 title : "RSVP (Thank you!)"
 content: |
-  This is going to be such a fun time, we're looking forward to celebrating with all of you in May!
-  If you have any questions or just want to say hullo feel free to contact Devon or Miranda via
-  email. Help us plan our food and beverage purchacing by following the link to the RSVP.
+  We’re finally getting married! This party will be as momentous as the occasion, and we’re looking
+  forward to sharing the evening with you all. If you have any questions or just want to say hello,
+  please get in touch. Kindly help us plan our food and beverage purchasing by following the link to
+  the RSVP. See you May 18th!!
 button: 
   label: "RSVP Form"
   link: "https://forms.gle/dhx4ujQincKrH5nK7"

@@ -1,11 +1,11 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Devon and Miranda's Wedding Celebration!"
 subtitle: |
-  The party sets sail Saturday, May 18<sup>th</sup> 2024.
+  The party sets sail Saturday, May 18<sup>th</sup> 2024 in Portland, Maine.
 content : |
-  Following a familial dinner ceremony meal and exchanging of vows, we've chartered a harbor cruise
-  ship to fill with as many friends as possible in celebration of our marriage. It'll be an evening
-  of live music, crusing and boozing.
+  We invite you to share in the joy of our union aboard the Bay Mist, raising glasses to love,
+  live music, and Portland’s picturesque Casco Bay. Your presence will make our celebration complete
+  as we fill the ship with all those we hold dear.
 button:
   label : "RSVP 🚢❤️🥂"
   link : "#rsvp"
