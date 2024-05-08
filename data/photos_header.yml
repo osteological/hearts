@@ -1,0 +1,11 @@
+style: "style2 orient-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Thank you!"
+subtitle: |
+  Sharing any and all photos would be greatly appreciated to help us relive our wedding day in the years to come ❤
+content : |
+  Either use the button below to upload photos or email them to dev@esologic.com, or text to 207-449-2653.
+button:
+  label : "Photo Upload"
+  link : "https://www.dropbox.com/request/WkEDmyx6rIcUOD8Bk3HL"
+image : "images/photos/photos_header.jpg"
+
