@@ -1,9 +1,9 @@
 <article>
     <a href="{{ .image }}" class="image">
         {{ if .thumb }}
-            {{ with .thumb }}<img src="/{{ . }}" alt="" />{{ end }}
+            {{ with .thumb }}<img src="{{ . }}" alt="" />{{ end }}
         {{ else }}
-            {{ with .image }}<img src="/{{ . }}" alt="" />{{ end }}
+            {{ with .image }}<img src="{{ . }}" alt="" />{{ end }}
         {{ end }}
     </a>
     <div class="caption">

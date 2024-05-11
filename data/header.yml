@@ -9,5 +9,5 @@ content : |
 button:
   label : "RSVP 🚢❤️🥂"
   link : "#rsvp"
-image : "images/flyer.png"
+image : "/images/flyer.png"
 

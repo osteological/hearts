@@ -10,4 +10,4 @@ button:
   label: "RSVP Form"
   link: "https://forms.gle/dhx4ujQincKrH5nK7"
   button_tag: 'target="_blank"'
-image: "images/us-1.jpg"
+image: "/images/us-1.jpg"

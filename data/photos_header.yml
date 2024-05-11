@@ -7,5 +7,5 @@ content : |
 button:
   label : "Photo Upload"
   link : "https://www.dropbox.com/request/WkEDmyx6rIcUOD8Bk3HL"
-image : "images/photos_section/ps_1.jpeg"
+image : "/images/photos_section/ps_1.jpeg"
 
